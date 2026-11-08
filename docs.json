@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "almond",
+  "theme": "palm",
   "name": "SolidCore Studios",
   "colors": {
     "primary": "#FF0000",
